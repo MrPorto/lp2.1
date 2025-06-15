@@ -1,3 +1,9 @@
+/**
+ * Laboratório de Programação 2 - Lab 1
+ * 
+ * @author André Filipe Porto Henriques- 124210957
+ */
+
 import java.util.Scanner;
 
 public class AcimaDaMedia {
